@@ -1,0 +1,15 @@
+Fault frequencies of CWRU bearing
+BPFO	3.5848 x fr
+BPFI	5.4152 x fr
+FTF	0.3983 x fr
+BSF	4.7135 x fr
+
+normal, inner, outer 결함 데이터
+
+-sampling rate : 48 kHz
+-하중 : 3HP
+-회전속도 : 1730RPM
+
+10초동안의 데이터를 서브폴더에 1초씩 나눠서 10개 데이터로 저장
+
+*베어링 결함 주파수는 같이 첨부된 이미지 파일 참조
